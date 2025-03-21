@@ -1,7 +1,3 @@
-# Вольхин Данил Федорович
-
-![Profile Image](https://avatars.githubusercontent.com/u/52132611?v=4)
-
 Зеленоград, к243, Москва, Россия, 20460  
 (+7) (912) 744-40-40  
 deneal123@mail.ru | dfvolkhin@edu.hse.ru  
