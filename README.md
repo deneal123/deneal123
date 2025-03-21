@@ -1,7 +1,7 @@
 Зеленоград, к243, Москва, Россия, 20460
 (+7) (912) 744-40-40  
-deneal123@mail.ru | dfvolkhin@edu.hse.ru
-[Telegram: @yorosama](https://t.me/yorosama) | [Данил Вольхин (vk.com)](https://vk.com)
+deneal123@mail.ru | dfvolkhin@edu.hse.ru |
+[Telegram: @yorosama](https://t.me/yorosama) | [Данил Вольхин (vk.com)](https://vk.com) |
 [Мой Хабр](https://habr.com/ru/users/digtatordigtatorov/)
 
 - 🔭 Работаю над "Системой скалярного запуска телеграмм ботов с RAG" 
