@@ -77,7 +77,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
   - **Репозиторий**: [deneal123/MuseumAI](https://github.com/deneal123/MuseumAI)
 
 ### Международный хакатон «Цифровой прорыв. Сезон: Искусственный интеллект»
-- **Победитель** – Москва, ноябрь 2024
+- **Участник** – Москва, ноябрь 2024
 - **Описание**: Поиск кандидатов на вакансию на основе их личностного типа по системе OCEAN и описанию вакансии.
 - **Что сделал?**: Обучал модели, Разработал Backend и Frontend приложения. 
 - **Репозиторий**: [Prischli-Drink-Coffee/HireSnap](https://github.com/Prischli-Drink-Coffee/HireSnap)
