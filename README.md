@@ -19,19 +19,19 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 
 ## Навыки
 
-- **Языки программирования**: Python, Matlab, C-CUDA (немного)
-- **IDE**: VSCodium, VS, PyCharm
-- **Фреймворки и библиотеки**: Torch, Tensorflow, Ultralytics, Transformers,
+- **Языки программирования**: Python, Matlab, JavaScript (немного), C (немного), C-CUDA (немного)
+- **Фреймворки и технологии**: Torch, Tensorflow, Ultralytics, Transformers,
    FastAPI (много занимался бекендом), React (немного), Streamlit, PyQt,
-   OpenCV, Kafka (немного), Flet, HuggingFace, JupyterNotebook, OpenAI API,
-   llama.cpp, LangFlow, LangChain, n8n
+   OpenCV, Kafka (немного), Docker (немного), Flet (немного), HuggingFace, JupyterNotebook, OpenAI API,
+   llama.cpp, LangFlow, LangChain, LangGraph, OpenAI-agents, n8n, vllm.
 - **Языки**: Английский (B1)
 
 
-## Опыт 7 месяцев в AtlasIT
+## Опыт 8 месяцев в AtlasIT
 
-- **Стек**: MySQL, FastAPI, React + CV, NLP
+- **Стек**: | MySQL, FastAPI, React | + | CV, NLP |
 - **Описание**: Full-stack разработка мини AI приложений.
+- **Обязанности**: Подготовка технического задания, созвоны с заказчиком в роли специалиста, разработка бекенда, разработка фронтенда (немного), тестирование и отладка, разработка телеграмм ботов, развертывание.
 
 ---
 
@@ -63,15 +63,18 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **Репозиторий**: [Prischli-Drink-Coffee/NaRuTagAI](https://github.com/Prischli-Drink-Coffee/NaRuTagAI)
 
 ### Окружные хакатоны «Цифровой прорыв. Сезон: Искусственный интеллект»
-- **Уральский федеральный округ** – май 2024
+- **Уральский федеральный округ**
+  - **Участник** – Онлайн, май 2024
   - **Описание**: Классификация парнокопытных.
   - **Что сделал?**: Разметил данные, обучил Yolov8n и Swint, разработал интерфейс (PyQt).
   - **Репозиторий**: [deneal123/DeerAI](https://github.com/deneal123/DeerAI)
-- **Центральный федеральный округ** – апрель 2024
+- **Центральный федеральный округ**
+  - **Участник** – Онлайн, апрель 2024
   - **Описание**: Интеллектуальный анализатор обратной связи студентов.
   - **Что сделал?**: Обучил модели Embedding+CNN для классификации текста.
   - **Репозиторий**: [deneal123/StudentFeedBackAI](https://github.com/deneal123/StudentFeedBackAI)
-- **Южный федеральный округ** – апрель 2024
+- **Южный федеральный округ**
+  - **Участник** – Онлайн, апрель 2024
   - **Описание**: Поиск экспонатов в каталоге ГоскаталогРФ.
   - **Что сделал?**: Обучил CNN для классификации, разработал интерфейс (Streamlit).
   - **Репозиторий**: [deneal123/MuseumAI](https://github.com/deneal123/MuseumAI)
