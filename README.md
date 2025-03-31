@@ -19,7 +19,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 
 ## Навыки
 
-- **Языки программирования**: Python, Matlab, JavaScript (немного), C (немного), C-CUDA (немного)
+- **Языки программирования**: Python, Matlab, JavaScript (немного), C++ (немного), C-CUDA (немного)
 - **Фреймворки и технологии**: Torch, Tensorflow, Ultralytics, Transformers,
    FastAPI (много занимался бекендом), React (немного), Streamlit, PyQt,
    OpenCV, Kafka (немного), Docker (немного), Flet (немного), HuggingFace, JupyterNotebook, OpenAI API,
