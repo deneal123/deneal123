@@ -55,14 +55,14 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **Описание**: Оценка эффективности вложений в содержание недвижимости.
 - **Что сделал?**: Подготовил данные для ML алгоритмов.
 - **Репозиторий**: [deneal123/HackMoscow](https://github.com/deneal123/HackMoscow)
-- **Диплом**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%9C%D0%B5%D0%B6%D0%BD%D0%B0%D1%80.pdf)
+- **Диплом**: [pdf](https://drive.google.com/file/d/1SO7Zk25AIXkusUMMTyrJeogaN9oISd6P/view?usp=sharing)
 
 ### Всероссийский хакатон «Цифровой прорыв. Сезон: Искусственный интеллект»
 - **Участник** – Москва, октябрь 2024
 - **Описание**: Генерация иерархических тегов для видео с использованием мультимодальных моделей (Rutube).
 - **Что сделал?**: Разработал парсер, обучил модели, Backend и Frontend приложения.
 - **Репозиторий**: [Prischli-Drink-Coffee/NaRuTagAI](https://github.com/Prischli-Drink-Coffee/NaRuTagAI)
-- **Сертификат**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.pdf)
+- **Сертификат**: [pdf](https://drive.google.com/file/d/1QTyeDvhomUgbDZYUCzoo-XJEer02jX3v/view?usp=sharing)
 
 ### Окружные хакатоны «Цифровой прорыв. Сезон: Искусственный интеллект»
 - **Уральский федеральный округ**
@@ -70,33 +70,33 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
   - **Описание**: Классификация парнокопытных.
   - **Что сделал?**: Разметил данные, обучил Yolov8n и Swint, разработал интерфейс (PyQt).
   - **Репозиторий**: [deneal123/DeerAI](https://github.com/deneal123/DeerAI)
-  - **Сертификат**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%A3%D0%A4%D0%9E.pdf)
+  - **Сертификат**: [pdf](https://drive.google.com/file/d/14lSdoZGdpvK2M4H8KDR5r-I609kmH8Ff/view?usp=sharing)
 - **Центральный федеральный округ**
   - **Участник** – Онлайн, апрель 2024
   - **Описание**: Интеллектуальный анализатор обратной связи студентов.
   - **Что сделал?**: Обучил модели Embedding+CNN для классификации текста.
   - **Репозиторий**: [deneal123/StudentFeedBackAI](https://github.com/deneal123/StudentFeedBackAI)
-  - **Сертификат**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%A6%D0%A4%D0%9E.pdf)
+  - **Сертификат**: [pdf](https://drive.google.com/file/d/13n05prDWgW2ogj-PlyUCyh8QqLIqjswC/view?usp=sharing)
 - **Южный федеральный округ**
   - **Участник** – Онлайн, апрель 2024
   - **Описание**: Поиск экспонатов в каталоге ГоскаталогРФ.
   - **Что сделал?**: Обучил CNN для классификации, разработал интерфейс (Streamlit).
   - **Репозиторий**: [deneal123/MuseumAI](https://github.com/deneal123/MuseumAI)
-  - **Сертификат**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%AE%D0%A4%D0%9E.pdf)
+  - **Сертификат**: [pdf](https://drive.google.com/file/d/1rsvc_vO5TbQjjL0_ZqDmrSUt-yyb5LeN/view?usp=sharing)
 
 ### Международный хакатон «Цифровой прорыв. Сезон: Искусственный интеллект»
 - **Участник** – Москва, ноябрь 2024
 - **Описание**: Поиск кандидатов на вакансию на основе их личностного типа по системе OCEAN и описанию вакансии.
 - **Что сделал?**: Обучил модели, разработал Backend и Frontend приложения. 
 - **Репозиторий**: [Prischli-Drink-Coffee/HireSnap](https://github.com/Prischli-Drink-Coffee/HireSnap)
-- **Сертификат**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%98%D0%98%20%D0%9C%D0%B5%D0%B6%D0%BD%D0%B0%D1%80%202.pdf)
+- **Сертификат**: [pdf](https://drive.google.com/file/d/1wxL2Q1o2ktN7JN8oyXTY_gWDz7gFAO8r/view?usp=sharing)
 
 ### «HSE Sber RecSys Hack»
 - **Участник** - Москва, ноябрь 2024
 - **Описание**: Задача для алгоритмов персонализированных рекомендаций, обогащенных кросс-доменными данными.
 - **Что сделал?**: Обучил модель.
 - **Репозиторий**: [Prischli-Drink-Coffee/RecSys](https://github.com/Prischli-Drink-Coffee/RecSys)
-- **Сертификат**: [pdf](file:///C:/Users/NightMare/Downloads/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%BE%D0%BB%D1%8C%D1%85%D0%B8%D0%BD.pdf)
+- **Сертификат**: [pdf](https://drive.google.com/file/d/1v3UquCL9W-QmvEKyOHrcoAPczQqw2tGN/view?usp=sharing)
 
 ---
 
@@ -106,7 +106,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **XXXI Всероссийская межвузовская научно-техническая конференция студентов, аспирантов и молодых ученых**
 - **Апрель 2024** – Разработка алгоритма классификации и сегментации СЭМ-изображений сферических наночастиц на поверхности биосовместимых материалов.
 - **Программа**: [programma_microel_2024.pdf](https://miet.ru)
-- **Тезисы**: [pdf](file:///C:/Users/NightMare/Desktop/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B%20%D0%9C%D0%B5%D0%B6%D0%BD%D0%B0%D1%80%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%202024.pdf)
+- **Тезисы**: [pdf](https://drive.google.com/file/d/1dWQ9HTBZEsOgWzRQL6ajMF2HzMKY6yke/view?usp=sharing)
 
 ---
 
@@ -120,4 +120,12 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **Ссылка** - [101-110](https://journal-ekss.ru/wp-content/uploads/2025/02/101-110.pdf)
 
 ---
+
+## Сертификаты
+
+### Олимпиада «Я — ПРОФЕССИОНАЛ»
+- **2020-2021** - Инженерно-физические, ядерные и нанотехнологии в медицине.
+- **Сертификат**: [pdf](https://drive.google.com/file/d/1dY3ll6Mp83YJBTfbRovKnYefeuJMnTIn/view?usp=drive_link)
+- **2019-2020** - Биобезопасность, биоинженерия и биоинформатика.
+- **Сертификат**: [pdf](https://drive.google.com/file/d/1Ed1VD0wEWAfqWDEsRy9weWETCuNfRapX/view?usp=sharing)
 
