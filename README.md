@@ -108,8 +108,6 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **Программа**: [programma_microel_2024.pdf](https://miet.ru)
 - **Тезисы**: [pdf](https://drive.google.com/file/d/1dWQ9HTBZEsOgWzRQL6ajMF2HzMKY6yke/view?usp=sharing)
 
----
-
 ## Статьи
 
 ### Журнал «Экономика и качество систем связи» №1(35)/2025
@@ -129,3 +127,4 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 - **2019-2020** - Биобезопасность, биоинженерия и биоинформатика.
 - **Сертификат**: [pdf](https://drive.google.com/file/d/1Ed1VD0wEWAfqWDEsRy9weWETCuNfRapX/view?usp=sharing)
 
+---
