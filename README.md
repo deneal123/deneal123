@@ -41,7 +41,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
   - **Scanner/Mirror**: Оба похожих проекта для примерки одежды. (StableDiff)
   - **SpayGen**: Генерация одностраничных вайтов. (Agent, Qdrant)
   - **FoodTracker**: Приложение для отслеживания калорий/кбжу еды. (Ultralytics, Yolo, Qdrant)
-  - **DotBud**: Фитнес приложение с умным отслеживанием верности выполнения упражнений. (Ultralytics, Yolo, RealTime)
+  - **DotBud**: Фитнес приложение с умным отслеживанием выполнения упражнений. (Ultralytics, Yolo, RealTime)
   - **Balance/Raccoon/Sneakers/Airpods/Stvol/**: Все проекты мини-приложения/интернет магазины. (FastAPI, MySQL)
 
 ---
