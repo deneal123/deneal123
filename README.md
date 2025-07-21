@@ -42,7 +42,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
   - **SpayGen**: Генерация одностраничных вайтов. (Agent, Qdrant)
   - **FoodTracker**: Приложение для отслеживания калорий/кбжу еды. (Ultralytics, Yolo, Qdrant)
   - **DotBud**: Фитнес приложение с умным отслеживанием выполнения упражнений. (Ultralytics, Yolo, RealTime)
-  - **Balance/Raccoon/Sneakers/Airpods/Stvol/**: Все проекты мини-приложения/интернет магазины. (FastAPI, MySQL)
+  - **Balance/Raccoon/Sneakers/Airpods/Stvol**: Все проекты мини-приложения/интернет магазины. (FastAPI, MySQL)
 
 ---
 
