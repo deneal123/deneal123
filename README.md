@@ -46,7 +46,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
 
 ---
 
-## Пет-проект
+## Пет-проекты
 
 ### Автоматизированное измерение диаметра сферических наночастиц на СЭМ-изображениях
 - **Стек**: Torch, Tensorflow, Ultralytics, Streamlit
@@ -56,6 +56,18 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
   - Решал задачи классификации, детекции и сегментации.
   - Разработал пользовательский интерфейс (Streamlit).
 - **Репозиторий**: [deneal123/MicroscopeAI](https://github.com/deneal123/MicroscopeAI)
+
+### FrameReader
+- **Стек**: React, MySQL, FastAPI, Triton-Inference-Server, Torch
+- **Описание**:
+  - Обучил два трансформера Donut/TrOCR на русском корпусе для распознавания текста на изображениях. (OCR)
+  - Обучил YOLO для детектирования текста на кадрах.
+  - Написал engine для инференса моделями в формате TensorRT.
+  - Развернул YOLO и Donut на triton-inference сервере.
+  - Переписал трекер Ultralytics с интеграцией SAHI.
+  - Собрал backend с сокетами и анонимными сессиями.
+  - Собрал одностраничник на React.
+- **Репозиторий**: [Prischli-Drink-Coffee/FrameReader](https://github.com/Prischli-Drink-Coffee/FrameReader.git)
 
 ---
 
