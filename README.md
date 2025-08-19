@@ -24,7 +24,7 @@ deneal123@mail.ru | dfvolkhin@edu.hse.ru |
    FastAPI (много занимался бекендом), React (немного), Streamlit, PyQt,
    OpenCV, Kafka (немного), Docker (немного), Flet (немного), HuggingFace, JupyterNotebook, OpenAI API,
    llama.cpp, LangFlow, LangChain, LangGraph, OpenAI-agents, n8n, vllm, liteLLM.
-- **Языки**: Английский (B1)
+- **Языки**: Английский (B2)
 
 
 ## Опыт 1 год в AtlasIT
