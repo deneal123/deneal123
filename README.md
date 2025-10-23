@@ -13,7 +13,7 @@
 * **DevOps/MLOps:** Kafka, Docker, Ollama, vllm, liteLLM, TensoRT, TritonInferenceServer
 * **Frontend:** React, Three.js, Flet, Streamlit, PyQt  
 * **Языки:** Английский (B2)
-s
+
 ---
 
 ## 💼 Опыт работы
