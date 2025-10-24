@@ -1,6 +1,25 @@
-Зеленоград, к243, Москва, Россия, 124460  
-📞 (+7) 912 744-40-40 | 📧 deneal123@mail.ru | dfvolkhin@edu.hse.ru  
-[💬 Telegram](https://t.me/yorosama) | [👤 VK](https://vk.com) | [👨‍💻 Хабр](https://habr.com/ru/users/digtatordigtatorov/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Зеленоград, к243, Москва, Россия, 124460**  <br>
+**Вольхин Данил Федорович**  <br>
+📞 (+7) 912 744-40-40  <br>
+📧 deneal123@mail.ru  <br>
+📧 dfvolkhin@edu.hse.ru  <br>
+[💬 Telegram](https://t.me/yorosama)  <br>
+[👤 VK](https://vk.com)  <br>
+[👨‍💻 Хабр](https://habr.com/ru/users/digtatordigtatorov/)  <br>
+[💻 GitHub](https://github.com/deneal123)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://sun9-10.userapi.com/s/v1/if2/kB29OSaynGiFFOXAvSN_29-ptDB_wlyd2Zl7j7mb99g1u_S_x8HU2IeL284qLTBGocQ1CuEwXlc1xDp-GzPbaBEz.jpg?quality=95&as=32x27,48x41,72x61,108x91,160x135,240x203,360x305,480x406,540x457,640x542,720x610,1080x914,1280x1084,1440x1219,2336x1978&from=bu&cs=2336x0" width="200" height="200" style="border-radius: 6px;">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -13,7 +32,7 @@
 * **DevOps/MLOps:** Kafka, Docker, Ollama, vllm, liteLLM, TensoRT, TritonInferenceServer
 * **Frontend:** React, Three.js, Flet, Streamlit, PyQt  
 * **Языки:** Английский (B2)
-s
+
 ---
 
 ## 💼 Опыт работы
