@@ -50,7 +50,7 @@
 · Бизнес-ценность: Решение нацелено на предотвращение штрафов от регуляторов с потенциальной экономией ~1 млрд рублей.
 **Стек**: AgentLLM, LangChain/LangGraph, Regex, Scikit-learn, Jupyter, PyTest
 
-### 🚀 «AtlasIT» | Co-founder, AI engineer, Full-stack development
+### 🚀 «AtlasIT» | AI engineer, Full-stack development
 **Период**: август 2024 - настоящее время </br>
 **Обязанности**: ML, DevOps, MLOps, Backend, Frontend (немного), TelegramBot, Подготовка тех. заданий </br>
 
