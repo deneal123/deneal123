@@ -2,11 +2,10 @@
 <tr>
 <td width="50%" valign="top">
 
-**Зеленоград, к243, Москва, Россия, 124460**  <br>
+**Москва, Россия**  <br>
 **Вольхин Данил Федорович**  <br>
 📞 (+7) 912 744-40-40  <br>
 📧 deneal123@mail.ru  <br>
-📧 dfvolkhin@edu.hse.ru  <br>
 [💬 Telegram](https://t.me/yorosama)  <br>
 [👤 VK](https://vk.com)  <br>
 [👨‍💻 Хабр](https://habr.com/ru/users/digtatordigtatorov/)  <br>
