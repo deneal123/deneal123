@@ -967,13 +967,15 @@ Streamlit.
 | Международный «Цифровой прорыв», Москва | Участник | Поиск кандидатов по OCEAN-типам | [код](https://github.com/Prischli-Drink-Coffee/HireSnap) · [сертификат](https://drive.google.com/file/d/1wxL2Q1o2ktN7JN8oyXTY_gWDz7gFAO8r/view?usp=sharing) |
 | Всероссийский «Цифровой прорыв», Москва | Участник | Генерация иерархических тегов для видео | [код](https://github.com/Prischli-Drink-Coffee/NaRuTagAI) · [сертификат](https://drive.google.com/file/d/1QTyeDvhomUgbDZYUCzoo-XJEer02jX3v/view?usp=sharing) |
 | HSE Sber RecSys Hack, Москва | Участник | Кросс-доменные рекомендации | [код](https://github.com/Prischli-Drink-Coffee/RecSys) · [сертификат](https://drive.google.com/file/d/1v3UquCL9W-QmvEKyOHrcoAPczQqw2tGN/view?usp=sharing) |
+| МТС True Tech Hack 2026 | Участник | Хакатон | [сертификат](https://drive.google.com/file/d/1S2HFLtLL2HgMHUqCWMokG2A6_sgylCHz/view?usp=sharing) |
 | Окружной «Цифровой прорыв», ЦФО | Участник | Классификация парнокопытных: YOLOv8n и Swin Transformer, интерфейс на PyQt | [код](https://github.com/deneal123/DeerAI) · [сертификат](https://drive.google.com/file/d/14lSdoZGdpvK2M4H8KDR5r-I609kmH8Ff/view?usp=sharing) |
 | Окружной «Цифровой прорыв», УФО | Участник | Анализатор обратной связи студентов: Embedding и CNN | [код](https://github.com/deneal123/StudentFeedBackAI) · [сертификат](https://drive.google.com/file/d/13n05prDWgW2ogj-PlyUCyh8QqLIqjswC/view?usp=sharing) |
 | Окружной «Цифровой прорыв», ЮФО | Участник | Поиск экспонатов в каталоге Госкаталог РФ: CNN, Streamlit | [код](https://github.com/deneal123/MuseumAI) · [сертификат](https://drive.google.com/file/d/1rsvc_vO5TbQjjL0_ZqDmrSUt-yyb5LeN/view?usp=sharing) |
 | Международная олимпиада по ИИ AIDAO | Участник | Классификация состояния человека по данным ЭЭГ | [код](https://github.com/deneal123/AIDAO) |
-| Yandex Cup 2023, Москва | Участник | Направление «Машинное обучение» | [сертификат](https://drive.google.com/file/d/1yKB-z8kkWTceUzu1-y7kStuVkCWPbduh/view) |
+| Yandex Cup 2023, Москва | Участник | Направление «Машинное обучение» | [сертификат](https://drive.google.com/file/d/1yKB-z8kkWTceUzu1-y7kStuVkCWPbduh/view?usp=sharing) |
 | Олимпиада «Я — профессионал» | Участник | Инженерно-физические, ядерные и нанотехнологии в медицине, 2020–2021 | [сертификат](https://drive.google.com/file/d/1dY3ll6Mp83YJBTfbRovKnYefeuJMnTIn/view) |
 | Олимпиада «Я — профессионал» | Участник | Биобезопасность, биоинженерия и биоинформатика, 2019–2020 | [сертификат](https://drive.google.com/file/d/1Ed1VD0wEWAfqWDEsRy9weWETCuNfRapX/view) |
+| «Геометриада» | Участник | XLVIII Московская городская студенческая олимпиада по начертательной геометрии, инженерной и компьютерной графике (НИУ МИЭТ, 2023) | [сертификат](https://drive.google.com/file/d/1wLFvR1LOSQybUIq51khrLfmAwqPh-isU/view?usp=sharing) |
 | Natural Language Processing course, ods.ai | Пройден | Онлайн-курс, Spring 2025, Stream 8 | [сертификат](https://drive.google.com/file/d/1Tdxo8fVrIi_-FbSGkfr9NTdtr4QYKOvn/view) |
 
 ---
